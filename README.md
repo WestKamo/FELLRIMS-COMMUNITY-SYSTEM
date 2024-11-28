@@ -29,7 +29,7 @@ FELLRIMS is a centralized data management system designed to address the unique 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/FELLRIMS.git
+    [https://github.com/WestKamo/FELLRIMS-COMMUNITY-SYSTEM]
     ```
 2. Open the project in Visual Studio 2022.
 3. Restore NuGet packages and build the solution.
